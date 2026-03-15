@@ -1,0 +1,3 @@
+2026-03-14 00:34:23 - AdvancedDNSHijack - INFO - 加载默认劫持规则: 7 条
+2026-03-14 00:34:23 - AdvancedDNSHijack - INFO - 高级DNS劫持工具初始化完成
+2026-03-14 00:34:23 - AdvancedDNSHijack - INFO - 添加劫持规则: example.com -> 127.0.0.1 (exact/A)

@@ -1,0 +1,37 @@
+{
+  "session_info": {
+    "start_time": "2026-03-14T14:00:23.357221",
+    "attacks": [],
+    "discoveries": [
+      {
+        "ip": "10.30.77.84",
+        "mac": "00:e0:4c:81:73:7e",
+        "method": "ARP",
+        "confidence": "高",
+        "timestamp": "2026-03-14T14:00:15.280139",
+        "vendor": "未知厂商",
+        "type": "客户端",
+        "risk_level": "低",
+        "ports": []
+      },
+      {
+        "ip": "10.30.77.103",
+        "mac": "b0:25:aa:6e:26:55",
+        "method": "ARP",
+        "confidence": "高",
+        "timestamp": "2026-03-14T14:00:15.280139",
+        "vendor": "未知厂商",
+        "type": "客户端",
+        "risk_level": "低",
+        "ports": []
+      }
+    ],
+    "alerts": []
+  },
+  "summary": {
+    "total_attacks": 0,
+    "total_devices": 2,
+    "session_duration": "0:00:00"
+  },
+  "recommendations": []
+}
